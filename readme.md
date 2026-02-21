@@ -158,7 +158,7 @@ These issues were observed in automated tests / marking feedback and are include
 
 ## Engineering Roadmap
 
-This project is currently in a functional prototype state. The following technical debt and optimization tasks are planned for the next release.
+This project is currently in a functional prototype state. The following technical debt and optimization tasks would be planned for future iteration.
 
 ### Core Logic & Correctness
 
